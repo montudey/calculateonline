@@ -1,0 +1,22 @@
+{
+  "name": "calculateonline",
+  "version": "1.0.0",
+  "description": "This is an online calculator",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/montudey/calculateonline.git"
+  },
+  "author": "Mrinab Dey",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/montudey/calculateonline/issues"
+  },
+  "homepage": "https://github.com/montudey/calculateonline#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
